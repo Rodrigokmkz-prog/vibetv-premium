@@ -1,0 +1,427 @@
+#EXTM3U
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="amazonprimevideo" tvg-name="Amazon Prime" tvg-logo="https://1.embedcanaisdetv.com/images/amazonprimevideo.png" group-title="Esportes",Amazon Prime
+https://0508.cdn10embed.xyz/amazonprime/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="amazonprimevideo02" tvg-name="Amazon Prime 02" tvg-logo="https://1.embedcanaisdetv.com/images/amazonprimevideo.png" group-title="Esportes",Amazon Prime 02
+https://0508.cdn10embed.xyz/amazonprime02/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="amazonprimevideo03" tvg-name="Amazon Prime 03" tvg-logo="https://1.embedcanaisdetv.com/images/amazonprimevideo.png" group-title="Esportes",Amazon Prime 03
+https://0508.cdn10embed.xyz/amazonprime03/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="amazonprimevideo05" tvg-name="Amazon Prime 05" tvg-logo="https://1.embedcanaisdetv.com/images/amazonprimevideo.png" group-title="Esportes",Amazon Prime 05
+https://0508.cdn10embed.xyz/amazonprime05/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="appletv01" tvg-name="Apple TV 01" tvg-logo="https://1.embedcanaisdetv.com/images/appletv1.png" group-title="Esportes",Apple TV 01
+https://0508.cdn10embed.xyz/appletv01/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="appletv02" tvg-name="Apple TV 02" tvg-logo="https://1.embedcanaisdetv.com/images/appletv1.png" group-title="Esportes",Apple TV 02
+https://0508.cdn10embed.xyz/appletv02/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="appletv03" tvg-name="Apple TV 03" tvg-logo="https://vipcanais.net/images/appletv1.png" group-title="Esportes",Apple TV 03
+https://0508.cdn10embed.xyz/appletv03/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="appletv04" tvg-name="Apple TV 04" tvg-logo="https://vipcanais.net/images/appletv1.png" group-title="Esportes",Apple TV 04
+https://0508.cdn10embed.xyz/appletv04/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="appletv05" tvg-name="Apple TV 05" tvg-logo="https://vipcanais.net/images/appletv1.png" group-title="Esportes",Apple TV 05
+https://0508.cdn10embed.xyz/appletv05/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="appletv06" tvg-name="Apple TV 06" tvg-logo="https://vipcanais.net/images/appletv1.png" group-title="Esportes",Apple TV 06
+https://0508.cdn10embed.xyz/appletv06/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="bandsports" tvg-name="Band Sports" tvg-logo="https://1.embedcanaisdetv.com/images/bandsports.png" group-title="Esportes",Band Sports
+https://0508.cdn10embed.xyz/bandsports/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="canalgoat" tvg-name="Canal GOAT" tvg-logo="https://vipcanais.net/images/canalgoat.png" group-title="Esportes",Canal GOAT
+https://0508.cdn10embed.xyz/canalgoat/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="canaloff" tvg-name="Canal Off" tvg-logo="https://1.embedcanaisdetv.com/images/canaloff.png" group-title="Esportes",Canal Off
+https://0508.cdn10embed.xyz/canaloff/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="cazetv" tvg-name="CazéTV" tvg-logo="https://1.embedcanaisdetv.com/images/cazetv.png" group-title="Esportes",CazéTV
+https://0508.cdn10embed.xyz/cazetv/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="cazetv2" tvg-name="CazéTV 2" tvg-logo="https://vipcanais.net/images/cazetv.png" group-title="Esportes",CazéTV 2
+https://0508.cdn10embed.xyz/cazetv2/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="cazetv3" tvg-name="CazéTV 3" tvg-logo="https://vipcanais.net/images/cazetv.png" group-title="Esportes",CazéTV 3
+https://0508.cdn10embed.xyz/cazetv3/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="cazetv4" tvg-name="CazéTV 4" tvg-logo="https://vipcanais.net/images/cazetv.png" group-title="Esportes",CazéTV 4
+https://0508.cdn10embed.xyz/cazetv4/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="cazetv5" tvg-name="CazéTV 5" tvg-logo="https://vipcanais.net/images/cazetv.png" group-title="Esportes",CazéTV 5
+https://0508.cdn10embed.xyz/cazetv5/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="cazetv6" tvg-name="CazéTV 6" tvg-logo="https://vipcanais.net/images/cazetv.png" group-title="Esportes",CazéTV 6
+https://0508.cdn10embed.xyz/cazetv6/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="combate" tvg-name="Combate" tvg-logo="https://1.embedcanaisdetv.com/images/combate.png" group-title="Esportes",Combate
+https://0508.cdn10embed.xyz/combate/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="dazn" tvg-name="DAZN" tvg-logo="https://1.embedcanaisdetv.com/images/dazn.png" group-title="Esportes",DAZN
+https://0508.cdn10embed.xyz/dazn/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="disneyplus07" tvg-name="Disney + 07" tvg-logo="https://vipcanais.net/images/disneyplus.png" group-title="Esportes",Disney + 07
+https://0508.cdn10embed.xyz/disneyplus07/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="disneyplus08" tvg-name="Disney + 08" tvg-logo="https://vipcanais.net/images/disneyplus.png" group-title="Esportes",Disney + 08
+https://0508.cdn10embed.xyz/disneyplus08/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="disneyplus09" tvg-name="Disney + 09" tvg-logo="https://vipcanais.net/images/disneyplus.png" group-title="Esportes",Disney + 09
+https://0508.cdn10embed.xyz/disneyplus09/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="disneyplus" tvg-name="Disney+" tvg-logo="https://1.embedcanaisdetv.com/images/disneyplus.png" group-title="Esportes",Disney+
+https://0508.cdn10embed.xyz/disneyplus/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="disneyplus02" tvg-name="Disney+ 02" tvg-logo="https://1.embedcanaisdetv.com/images/disneyplus.png" group-title="Esportes",Disney+ 02
+https://0508.cdn10embed.xyz/disneyplus02/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="disneyplus03" tvg-name="Disney+ 03" tvg-logo="https://1.embedcanaisdetv.com/images/disneyplus.png" group-title="Esportes",Disney+ 03
+https://0508.cdn10embed.xyz/disneyplus03/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="disneyplus04" tvg-name="Disney+ 04" tvg-logo="https://1.embedcanaisdetv.com/images/disneyplus.png" group-title="Esportes",Disney+ 04
+https://0508.cdn10embed.xyz/disneyplus04/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="disneyplus05" tvg-name="Disney+ 05" tvg-logo="https://1.embedcanaisdetv.com/images/disneyplus.png" group-title="Esportes",Disney+ 05
+https://0508.cdn10embed.xyz/disneyplus05/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="disneyplus06" tvg-name="Disney+ 06" tvg-logo="https://1.embedcanaisdetv.com/images/disneyplus.png" group-title="Esportes",Disney+ 06
+https://0508.cdn10embed.xyz/disneyplus06/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN" tvg-logo="https://1.embedcanaisdetv.com/images/espn.png" group-title="Esportes",ESPN
+https://0508.cdn10embed.xyz/espn/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN 2" tvg-logo="https://1.embedcanaisdetv.com/images/espn.png" group-title="Esportes",ESPN 2
+https://0508.cdn10embed.xyz/espn2/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="espn3" tvg-name="ESPN 3" tvg-logo="https://1.embedcanaisdetv.com/images/espn.png" group-title="Esportes",ESPN 3
+https://0508.cdn10embed.xyz/espn3/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="espn4" tvg-name="ESPN 4" tvg-logo="https://1.embedcanaisdetv.com/images/espn.png" group-title="Esportes",ESPN 4
+https://0508.cdn10embed.xyz/espn4/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="espn5" tvg-name="ESPN 5" tvg-logo="https://1.embedcanaisdetv.com/images/espn.png" group-title="Esportes",ESPN 5
+https://0508.cdn10embed.xyz/espn5/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="espn6" tvg-name="ESPN 6" tvg-logo="https://1.embedcanaisdetv.com/images/espn.png" group-title="Esportes",ESPN 6
+https://0508.cdn10embed.xyz/espn6/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="getv" tvg-name="GE TV" tvg-logo="https://1.embedcanaisdetv.com/images/getv.png" group-title="Esportes",GE TV
+https://0508.cdn10embed.xyz/getv/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="max" tvg-name="Max" tvg-logo="https://1.embedcanaisdetv.com/images/max.png" group-title="Esportes",Max
+https://0508.cdn10embed.xyz/max/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="max02" tvg-name="Max 02" tvg-logo="https://1.embedcanaisdetv.com/images/max.png" group-title="Esportes",Max 02
+https://0508.cdn10embed.xyz/max02/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="max03" tvg-name="Max 03" tvg-logo="https://1.embedcanaisdetv.com/images/max.png" group-title="Esportes",Max 03
+https://0508.cdn10embed.xyz/max03/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="max04" tvg-name="Max 04" tvg-logo="https://1.embedcanaisdetv.com/images/max.png" group-title="Esportes",Max 04
+https://0508.cdn10embed.xyz/max04/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="max05" tvg-name="Max 05" tvg-logo="https://1.embedcanaisdetv.com/images/max.png" group-title="Esportes",Max 05
+https://0508.cdn10embed.xyz/max05/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="max06" tvg-name="Max 06" tvg-logo="https://1.embedcanaisdetv.com/images/max.png" group-title="Esportes",Max 06
+https://0508.cdn10embed.xyz/max06/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="nsports" tvg-name="N Sports" tvg-logo="https://1.embedcanaisdetv.com/images/nsports.png" group-title="Esportes",N Sports
+https://0508.cdn10embed.xyz/nsports/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="nossofutebol" tvg-name="Nosso Futebol" tvg-logo="https://1.embedcanaisdetv.com/images/nossofutebol.png" group-title="Esportes",Nosso Futebol
+https://0508.cdn10embed.xyz/nossofutebol/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="paramountplus" tvg-name="Paramount +" tvg-logo="https://1.embedcanaisdetv.com/images/paramountplus.png" group-title="Esportes",Paramount +
+https://0508.cdn10embed.xyz/paramountplus/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="paramountplus02" tvg-name="Paramount + 02" tvg-logo="https://1.embedcanaisdetv.com/images/paramountplus.png" group-title="Esportes",Paramount + 02
+https://0508.cdn10embed.xyz/paramountplus02/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="premiere2" tvg-name="Premiere 2" tvg-logo="https://1.embedcanaisdetv.com/images/premiere.png" group-title="Esportes",Premiere 2
+https://0508.cdn10embed.xyz/premiere2/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="premiere3" tvg-name="Premiere 3" tvg-logo="https://1.embedcanaisdetv.com/images/premiere.png" group-title="Esportes",Premiere 3
+https://0508.cdn10embed.xyz/premiere3/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="premiere4" tvg-name="Premiere 4" tvg-logo="https://1.embedcanaisdetv.com/images/premiere.png" group-title="Esportes",Premiere 4
+https://0508.cdn10embed.xyz/premiere4/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="premiere5" tvg-name="Premiere 5" tvg-logo="https://1.embedcanaisdetv.com/images/premiere.png" group-title="Esportes",Premiere 5
+https://0508.cdn10embed.xyz/premiere5/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="premiere6" tvg-name="Premiere 6" tvg-logo="https://1.embedcanaisdetv.com/images/premiere.png" group-title="Esportes",Premiere 6
+https://0508.cdn10embed.xyz/premiere6/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="premiere7" tvg-name="Premiere 7" tvg-logo="https://1.embedcanaisdetv.com/images/premiere.png" group-title="Esportes",Premiere 7
+https://0508.cdn10embed.xyz/premiere7/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="premiere8" tvg-name="Premiere 8" tvg-logo="https://1.embedcanaisdetv.com/images/premiere.png" group-title="Esportes",Premiere 8
+https://0508.cdn10embed.xyz/premiere8/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="premiereclubes" tvg-name="Premiere Clubes" tvg-logo="https://1.embedcanaisdetv.com/images/premiere.png" group-title="Esportes",Premiere Clubes
+https://0508.cdn10embed.xyz/premiereclubes/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="sportv" tvg-name="SporTV" tvg-logo="https://1.embedcanaisdetv.com/images/sportv.png" group-title="Esportes",SporTV
+https://0508.cdn10embed.xyz/sportv/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="sportv2" tvg-name="SporTV 2" tvg-logo="https://1.embedcanaisdetv.com/images/sportv2.png" group-title="Esportes",SporTV 2
+https://0508.cdn10embed.xyz/sportv2/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="sportv3" tvg-name="SporTV 3" tvg-logo="https://1.embedcanaisdetv.com/images/sportv3.png" group-title="Esportes",SporTV 3
+https://0508.cdn10embed.xyz/sportv3/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="tnt" tvg-name="TNT" tvg-logo="https://1.embedcanaisdetv.com/images/tnt.png" group-title="Esportes",TNT
+https://0508.cdn10embed.xyz/tnt/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="xsports" tvg-name="Xsports" tvg-logo="https://1.embedcanaisdetv.com/images/xsports.png" group-title="Esportes",Xsports
+https://0508.cdn10embed.xyz/xsports/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="aee" tvg-name="A&E" tvg-logo="https://1.embedcanaisdetv.com/images/aee.png" group-title="Filmes e Séries",A&E
+https://0508.cdn10embed.xyz/aee/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="https://1.embedcanaisdetv.com/images/amc.png" group-title="Filmes e Séries",AMC
+https://0508.cdn10embed.xyz/amc/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="amcseries" tvg-name="AMC Séries" tvg-logo="https://vipcanais.net/images/amcseries.png" group-title="Filmes e Séries",AMC Séries
+https://0508.cdn10embed.xyz/amcseries/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="https://1.embedcanaisdetv.com/images/axn.png" group-title="Filmes e Séries",AXN
+https://0508.cdn10embed.xyz/axn/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax" tvg-logo="https://1.embedcanaisdetv.com/images/cinemax.png" group-title="Filmes e Séries",Cinemax
+https://0508.cdn10embed.xyz/cinemax/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="globoplaynovelas" tvg-name="Globoplay Novelas" tvg-logo="https://1.embedcanaisdetv.com/images/globoplaynovelas.png" group-title="Filmes e Séries",Globoplay Novelas
+https://0508.cdn10embed.xyz/globoplaynovelas/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-logo="https://1.embedcanaisdetv.com/images/hbo.png" group-title="Filmes e Séries",HBO
+https://0508.cdn10embed.xyz/hbo/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="hbo2" tvg-name="HBO 2" tvg-logo="https://1.embedcanaisdetv.com/images/hbo2.png" group-title="Filmes e Séries",HBO 2
+https://0508.cdn10embed.xyz/hbo2/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="hbofamily" tvg-name="HBO Family" tvg-logo="https://1.embedcanaisdetv.com/images/hbofamily.png" group-title="Filmes e Séries",HBO Family
+https://0508.cdn10embed.xyz/hbofamily/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="hbomundi" tvg-name="HBO Mundi" tvg-logo="https://1.embedcanaisdetv.com/images/hbomundi.png" group-title="Filmes e Séries",HBO Mundi
+https://0508.cdn10embed.xyz/hbomundi/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="hboplus" tvg-name="HBO Plus" tvg-logo="https://1.embedcanaisdetv.com/images/hboplus.png" group-title="Filmes e Séries",HBO Plus
+https://0508.cdn10embed.xyz/hboplus/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="hbopop" tvg-name="HBO Pop" tvg-logo="https://1.embedcanaisdetv.com/images/hbopop.png" group-title="Filmes e Séries",HBO Pop
+https://0508.cdn10embed.xyz/hbopop/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="hbosignature" tvg-name="HBO Signature" tvg-logo="https://1.embedcanaisdetv.com/images/hbosignature.png" group-title="Filmes e Séries",HBO Signature
+https://0508.cdn10embed.xyz/hbosignature/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="hboxtreme" tvg-name="HBO Xtreme" tvg-logo="https://1.embedcanaisdetv.com/images/hboxtreme.png" group-title="Filmes e Séries",HBO Xtreme
+https://0508.cdn10embed.xyz/hboxtreme/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="megapix" tvg-name="Megapix" tvg-logo="https://1.embedcanaisdetv.com/images/megapix.png" group-title="Filmes e Séries",Megapix
+https://0508.cdn10embed.xyz/megapix/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="paramountnetwork" tvg-name="Paramount Network" tvg-logo="https://1.embedcanaisdetv.com/images/paramountnetwork.png" group-title="Filmes e Séries",Paramount Network
+https://0508.cdn10embed.xyz/paramountnetwork/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="sonychannel" tvg-name="Sony Channel" tvg-logo="https://1.embedcanaisdetv.com/images/sonychannel.png" group-title="Filmes e Séries",Sony Channel
+https://0508.cdn10embed.xyz/sonychannel/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="space" tvg-name="Space" tvg-logo="https://1.embedcanaisdetv.com/images/space.png" group-title="Filmes e Séries",Space
+https://0508.cdn10embed.xyz/space/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="studiouniversal" tvg-name="Studio Universal" tvg-logo="https://1.embedcanaisdetv.com/images/studiouniversal.png" group-title="Filmes e Séries",Studio Universal
+https://0508.cdn10embed.xyz/studiouniversal/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="tcaction" tvg-name="Telecine Action" tvg-logo="https://1.embedcanaisdetv.com/images/tcaction.png" group-title="Filmes e Séries",Telecine Action
+https://0508.cdn10embed.xyz/tcaction/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="tccult" tvg-name="Telecine Cult" tvg-logo="https://1.embedcanaisdetv.com/images/tccult.png" group-title="Filmes e Séries",Telecine Cult
+https://0508.cdn10embed.xyz/tccult/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="tcfun" tvg-name="Telecine Fun" tvg-logo="https://1.embedcanaisdetv.com/images/tcfun.png" group-title="Filmes e Séries",Telecine Fun
+https://0508.cdn10embed.xyz/tcfun/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="tcpipoca" tvg-name="Telecine Pipoca" tvg-logo="https://1.embedcanaisdetv.com/images/tcpipoca.png" group-title="Filmes e Séries",Telecine Pipoca
+https://0508.cdn10embed.xyz/tcpipoca/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="tcpremium" tvg-name="Telecine Premium" tvg-logo="https://1.embedcanaisdetv.com/images/tcpremium.png" group-title="Filmes e Séries",Telecine Premium
+https://0508.cdn10embed.xyz/tcpremium/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="tctouch" tvg-name="Telecine Touch" tvg-logo="https://1.embedcanaisdetv.com/images/tctouch.png" group-title="Filmes e Séries",Telecine Touch
+https://0508.cdn10embed.xyz/tcpremium/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="tnt" tvg-name="TNT" tvg-logo="https://1.embedcanaisdetv.com/images/tnt.png" group-title="Filmes e Séries",TNT
+https://0508.cdn10embed.xyz/tnt/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="tntnovelas" tvg-name="TNT Novelas" tvg-logo="https://1.embedcanaisdetv.com/images/tntnovelas.png" group-title="Filmes e Séries",TNT Novelas
+https://0508.cdn10embed.xyz/tntnovelas/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="tntseries" tvg-name="TNT Series" tvg-logo="https://1.embedcanaisdetv.com/images/tntseries.png" group-title="Filmes e Séries",TNT Series
+https://0508.cdn10embed.xyz/tntseries/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="universaltv" tvg-name="Universal TV" tvg-logo="https://1.embedcanaisdetv.com/images/universaltv.png" group-title="Filmes e Séries",Universal TV
+https://0508.cdn10embed.xyz/universaltv/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="warner" tvg-name="Warner Channel" tvg-logo="https://1.embedcanaisdetv.com/images/warnertv.png" group-title="Filmes e Séries",Warner Channel
+https://0508.cdn10embed.xyz/warner/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="bandsp" tvg-name="Band SP" tvg-logo="https://1.embedcanaisdetv.com/images/bandsp.png" group-title="Canais Abertos",Band SP
+https://0508.cdn10embed.xyz/bandsp/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="globodf" tvg-name="Globo DF" tvg-logo="https://1.embedcanaisdetv.com/images/globo.webp" group-title="Canais Abertos",Globo DF
+https://0508.cdn10embed.xyz/globodf/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="globoes" tvg-name="Globo Espírito Santo" tvg-logo="https://1.embedcanaisdetv.com/images/globo.webp" group-title="Canais Abertos",Globo Espírito Santo
+https://0508.cdn10embed.xyz/globoes/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="globomg" tvg-name="Globo Minas" tvg-logo="https://1.embedcanaisdetv.com/images/globo.webp" group-title="Canais Abertos",Globo Minas
+https://0508.cdn10embed.xyz/globomg/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="globors" tvg-name="Globo Porto Alegre" tvg-logo="https://1.embedcanaisdetv.com/images/globo.webp" group-title="Canais Abertos",Globo Porto Alegre
+https://0508.cdn10embed.xyz/globors/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="globorj" tvg-name="Globo Rio" tvg-logo="https://1.embedcanaisdetv.com/images/globo.webp" group-title="Canais Abertos",Globo Rio
+https://0508.cdn10embed.xyz/globorj/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="globosp" tvg-name="Globo São Paulo" tvg-logo="https://1.embedcanaisdetv.com/images/globo.webp" group-title="Canais Abertos",Globo São Paulo
+https://0508.cdn10embed.xyz/globosp/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="recorddf" tvg-name="Record DF" tvg-logo="https://1.embedcanaisdetv.com/images/record.png" group-title="Canais Abertos",Record DF
+https://0508.cdn10embed.xyz/recorddf/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="recordes" tvg-name="Record Espírito Santo" tvg-logo="https://1.embedcanaisdetv.com/images/record.png" group-title="Canais Abertos",Record Espírito Santo
+https://0508.cdn10embed.xyz/recordes/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="recordmg" tvg-name="Record Minas" tvg-logo="https://1.embedcanaisdetv.com/images/record.png" group-title="Canais Abertos",Record Minas
+https://0508.cdn10embed.xyz/recordmg/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="recordrj" tvg-name="Record Rio" tvg-logo="https://1.embedcanaisdetv.com/images/record.png" group-title="Canais Abertos",Record Rio
+https://0508.cdn10embed.xyz/recordrj/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="recordsp" tvg-name="Record São Paulo" tvg-logo="https://1.embedcanaisdetv.com/images/record.png" group-title="Canais Abertos",Record São Paulo
+https://0508.cdn10embed.xyz/recordsp/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="redetv" tvg-name="RedeTV!" tvg-logo="https://1.embedcanaisdetv.com/images/redetv.png" group-title="Canais Abertos",RedeTV!
+https://0508.cdn10embed.xyz/redetv/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="sbtrj" tvg-name="SBT Rio" tvg-logo="https://1.embedcanaisdetv.com/images/sbtsp.png" group-title="Canais Abertos",SBT Rio
+https://0508.cdn10embed.xyz/sbtrj/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="sbtsp" tvg-name="SBT São Paulo" tvg-logo="https://1.embedcanaisdetv.com/images/sbtsp.png" group-title="Canais Abertos",SBT São Paulo
+https://0508.cdn10embed.xyz/sbtsp/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="tvcultura" tvg-name="TV Cultura" tvg-logo="https://1.embedcanaisdetv.com/images/tvcultura.png" group-title="Canais Abertos",TV Cultura
+https://0508.cdn10embed.xyz/tvcultura/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="adultswim" tvg-name="Adult Swim" tvg-logo="https://1.embedcanaisdetv.com/images/adultswim.png" group-title="Variedades",Adult Swim
+https://0508.cdn10embed.xyz/adultswim/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="animalplanet" tvg-name="Animal Planet" tvg-logo="https://1.embedcanaisdetv.com/images/animalplanet.png" group-title="Variedades",Animal Planet
+https://0508.cdn10embed.xyz/animalplanet/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="comedycentral" tvg-name="Comedy Central" tvg-logo="https://1.embedcanaisdetv.com/images/comedycentral.png" group-title="Variedades",Comedy Central
+https://0508.cdn10embed.xyz/comedycentral/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="discoverychannel" tvg-name="Discovery Channel" tvg-logo="https://1.embedcanaisdetv.com/images/discoverychannel.png" group-title="Variedades",Discovery Channel
+https://0508.cdn10embed.xyz/discoverychannel/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="discoveryhh" tvg-name="Discovery Home & Health" tvg-logo="https://1.embedcanaisdetv.com/images/discoveryhh.png" group-title="Variedades",Discovery Home & Health
+https://0508.cdn10embed.xyz/discoveryhh/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="discoveryscience" tvg-name="Discovery Science" tvg-logo="https://1.embedcanaisdetv.com/images/discoveryscience.png" group-title="Variedades",Discovery Science
+https://0508.cdn10embed.xyz/discoveryscience/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="discoverytheater" tvg-name="Discovery Theater" tvg-logo="https://1.embedcanaisdetv.com/images/discoverytheater.png" group-title="Variedades",Discovery Theater
+https://0508.cdn10embed.xyz/discoverytheater/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="discoveryturbo" tvg-name="Discovery Turbo" tvg-logo="https://1.embedcanaisdetv.com/images/discoveryturbo.png" group-title="Variedades",Discovery Turbo
+https://0508.cdn10embed.xyz/discoveryturbo/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="discoveryworld" tvg-name="Discovery World" tvg-logo="https://1.embedcanaisdetv.com/images/discoveryworld.png" group-title="Variedades",Discovery World
+https://0508.cdn10embed.xyz/discoveryworld/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="foodnetwork" tvg-name="Food Network" tvg-logo="https://1.embedcanaisdetv.com/images/foodnetwork.png" group-title="Variedades",Food Network
+https://0508.cdn10embed.xyz/foodnetwork/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="gnt" tvg-name="GNT" tvg-logo="https://1.embedcanaisdetv.com/images/gnt.png" group-title="Variedades",GNT
+https://0508.cdn10embed.xyz/gnt/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="history" tvg-name="History" tvg-logo="https://1.embedcanaisdetv.com/images/history.png" group-title="Variedades",History
+https://0508.cdn10embed.xyz/history/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="history2" tvg-name="History 2" tvg-logo="https://1.embedcanaisdetv.com/images/history2.png" group-title="Variedades",History 2
+https://0508.cdn10embed.xyz/history2/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="discoveryid" tvg-name="Investigation Discovery" tvg-logo="https://1.embedcanaisdetv.com/images/discoveryid.png" group-title="Variedades",Investigation Discovery
+https://0508.cdn10embed.xyz/discoveryid/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="mtv" tvg-name="MTV" tvg-logo="https://1.embedcanaisdetv.com/images/mtv.png" group-title="Variedades",MTV
+https://0508.cdn10embed.xyz/mtv/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="multishow" tvg-name="Multishow" tvg-logo="https://1.embedcanaisdetv.com/images/multishow.png" group-title="Variedades",Multishow
+https://0508.cdn10embed.xyz/multishow/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="bandnews" tvg-name="BandNews" tvg-logo="https://1.embedcanaisdetv.com/images/bandnews.png" group-title="Notícias",BandNews
+https://0508.cdn10embed.xyz/bandnews/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="cnnbrasil" tvg-name="CNN Brasil" tvg-logo="https://1.embedcanaisdetv.com/images/cnnbrasil.png" group-title="Notícias",CNN Brasil
+https://0508.cdn10embed.xyz/cnnbrasil/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="globonews" tvg-name="GloboNews" tvg-logo="https://1.embedcanaisdetv.com/images/globonews.png" group-title="Notícias",GloboNews
+https://0508.cdn10embed.xyz/globonews/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="jovempannews" tvg-name="Jovem Pan News" tvg-logo="https://1.embedcanaisdetv.com/images/jovempannews.png" group-title="Notícias",Jovem Pan News
+https://0508.cdn10embed.xyz/jovempannews/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="recordnews" tvg-name="Record News" tvg-logo="https://1.embedcanaisdetv.com/images/recordnews.png" group-title="Notícias",Record News
+https://0508.cdn10embed.xyz/recordnews/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="Cartoon Network" tvg-logo="https://1.embedcanaisdetv.com/images/cartoonnetwork.png" group-title="Infantil",Cartoon Network
+https://0508.cdn10embed.xyz/cartoonnetwork/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="cartoonito" tvg-name="Cartoonito" tvg-logo="https://1.embedcanaisdetv.com/images/cartoonito.png" group-title="Infantil",Cartoonito
+https://0508.cdn10embed.xyz/cartoonito/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="discoverykids" tvg-name="Discovery Kids" tvg-logo="https://1.embedcanaisdetv.com/images/discoverykids.png" group-title="Infantil",Discovery Kids
+https://0508.cdn10embed.xyz/discoverykids/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="gloob" tvg-name="Gloob" tvg-logo="https://1.embedcanaisdetv.com/images/gloob.png" group-title="Infantil",Gloob
+https://0508.cdn10embed.xyz/gloob/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="gloobinho" tvg-name="Gloobinho" tvg-logo="https://1.embedcanaisdetv.com/images/gloobinho.png" group-title="Infantil",Gloobinho
+https://0508.cdn10embed.xyz/gloobinho/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="nickjr" tvg-name="Nick Jr." tvg-logo="https://1.embedcanaisdetv.com/images/nickjr.png" group-title="Infantil",Nick Jr.
+https://0508.cdn10embed.xyz/nickjr/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://1.embedcanaisdetv.com/images/nickelodeon.png" group-title="Infantil",Nickelodeon
+https://0508.cdn10embed.xyz/nickelodeon/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="tooncast" tvg-name="Tooncast" tvg-logo="https://1.embedcanaisdetv.com/images/tooncast.png" group-title="Infantil",Tooncast
+https://0508.cdn10embed.xyz/tooncast/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="cancaonova" tvg-name="Canção Nova" tvg-logo="https://vipcanais.net/images/cancaonova.png" group-title="Religiosos",Canção Nova
+https://0508.cdn10embed.xyz/cancaonova/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="novotempo" tvg-name="Novo Tempo" tvg-logo="https://vipcanais.net/images/novotempo.png" group-title="Religiosos",Novo Tempo
+https://0508.cdn10embed.xyz/novotempo/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="paieterno" tvg-name="Pai Eterno" tvg-logo="https://vipcanais.net/images/paieterno.png" group-title="Religiosos",Pai Eterno
+https://0508.cdn10embed.xyz/paieterno/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="redegospel" tvg-name="Rede Gospel" tvg-logo="https://vipcanais.net/images/redegospel.png" group-title="Religiosos",Rede Gospel
+https://0508.cdn10embed.xyz/redegospel/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="redevida" tvg-name="Rede Vida" tvg-logo="https://vipcanais.net/images/redevida.png" group-title="Religiosos",Rede Vida
+https://0508.cdn10embed.xyz/redevida/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="tvaparecida" tvg-name="TV Aparecida" tvg-logo="https://vipcanais.net/images/tvaparecida.png" group-title="Religiosos",TV Aparecida
+https://0508.cdn10embed.xyz/tvaparecida/index.m3u8
+#EXTVLCOPT:http-referrer=https://1.embedcanaisdetv.com/
+#EXTINF:-1 tvg-id="tvevangelizar" tvg-name="TV Evangelizar" tvg-logo="https://vipcanais.net/images/tvevangelizar.png" group-title="Religiosos",TV Evangelizar
+https://0508.cdn10embed.xyz/tvevangelizar/index.m3u8
