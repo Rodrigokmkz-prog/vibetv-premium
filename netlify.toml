@@ -6,8 +6,13 @@
   node_bundler = "esbuild"
 
 [[redirects]]
-  from = "/api/megacine/*"
-  to = "/.netlify/functions/proxy?url=https://megacine.media/:splat"
+  from = "/api/proxy"
+  to = "/.netlify/functions/proxy"
+  status = 200
+
+[[redirects]]
+  from = "/api/proxy/*"
+  to = "/.netlify/functions/proxy/:splat"
   status = 200
 
 [[headers]]
