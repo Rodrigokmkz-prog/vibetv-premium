@@ -1,0 +1,55 @@
+{
+  "name": "vibetv-premium",
+  "version": "1.0.0",
+  "description": "VIBETV PREMIUM - Seu app IPTV",
+  "main": "electron/main.js",
+  "author": "VIBETV",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder --win"
+  },
+  "devDependencies": {
+    "electron": "^31.3.1",
+    "electron-builder": "^24.13.3"
+  },
+  "build": {
+    "appId": "com.vibetv.premium",
+    "productName": "VIBETV PREMIUM",
+    "directories": {
+      "output": "dist",
+      "buildResources": "build"
+    },
+    "files": [
+      "index.html",
+      "css/**/*",
+      "js/**/*",
+      "fonts/**/*",
+      "playlists/**/*",
+      "hls.min.js",
+      "electron/**/*"
+    ],
+    "win": {
+      "target": [
+        "nsis",
+        "zip",
+        "portable"
+      ],
+      "icon": "build/icon.png"
+    },
+    "portable": {
+      "artifactName": "VIBETV-PREMIUM-Portable-${version}.exe"
+    },
+    "nsis": {
+      "oneClick": true,
+      "perMachine": false,
+      "artifactName": "VIBETV-PREMIUM-Setup-${version}.exe",
+      "shortcutName": "VIBETV PREMIUM",
+      "createDesktopShortcut": true
+    }
+  },
+  "allowScripts": {
+    "electron@31.7.7": true
+  }
+}

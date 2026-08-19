@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="theme-color" content="#08080a">
+<title>VIBETV PREMIUM</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📺</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div id="loading-screen" class="loading-screen">
+  <div class="loading-logo">VIBE<span>TV</span></div>
+  <div class="loading-spinner"></div>
+  <div class="loading-sub">PREMIUM</div>
+</div>
+
+<div id="login-screen" class="login-screen hidden">
+  <div class="login-bg">
+    <div class="login-bg-img" style="background-image:url('https://image.tmdb.org/t/p/w1280/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg')"></div>
+    <div class="login-bg-img" style="background-image:url('https://image.tmdb.org/t/p/w1280/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg')"></div>
+    <div class="login-bg-img" style="background-image:url('https://image.tmdb.org/t/p/w1280/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg')"></div>
+    <div class="login-bg-img" style="background-image:url('https://image.tmdb.org/t/p/w1280/d5NXSklXo0qyIYkgV94XAgMIckC.jpg')"></div>
+    <div class="login-bg-img" style="background-image:url('https://image.tmdb.org/t/p/w1280/bOGkgRGdhrBYJSLpXaxhXVstzVp.jpg')"></div>
+    <div class="login-bg-img" style="background-image:url('https://image.tmdb.org/t/p/w1280/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg')"></div>
+    <div class="login-bg-overlay"></div>
+  </div>
+  <div class="login-inner">
+    <div class="login-logo">
+      <div class="brand">VIBE<span>TV</span></div>
+      <div class="brand-sub">P R E M I U M</div>
+    </div>
+    <h1 class="setup-title">Acesse sua conta</h1>
+    <p class="setup-desc">Entre com seu usuário e senha para assistir.</p>
+    <div class="login-form-card">
+      <div class="login-field">
+        <span class="login-field-icon">👤</span>
+        <input type="text" id="login-user" placeholder="Usuário" spellcheck="false" autocomplete="username">
+      </div>
+      <div class="login-field">
+        <span class="login-field-icon">🔒</span>
+        <input type="password" id="login-pass" placeholder="Senha" spellcheck="false" autocomplete="current-password">
+      </div>
+      <button class="btn btn-gold" id="btn-do-login" style="width:100%;justify-content:center;margin-top:6px;">
+        <span class="btn-icon">🔑</span>
+        <span class="btn-text"><strong>Entrar</strong></span>
+      </button>
+    </div>
+    <div id="login-error" class="setup-error hidden"></div>
+    <footer class="setup-footer">VIBETV PREMIUM © 2026</footer>
+  </div>
+</div>
+
+<div id="setup-screen" class="setup-screen hidden">
+  <div class="setup-inner">
+    <div class="setup-logo">
+      <div class="brand">VIBE<span>TV</span></div>
+      <div class="brand-sub">P R E M I U M</div>
+    </div>
+    <h1 class="setup-title">Bem-vindo ao seu mundo de entretenimento</h1>
+    <p class="setup-desc">Adicione sua lista IPTV para começar a assistir. Você pode usar um link ou enviar um arquivo.</p>
+    <div class="setup-options">
+      <button class="btn btn-gold" id="btn-url" tabindex="0">
+        <span class="btn-icon">🔗</span>
+        <span class="btn-text">
+          <strong>Adicionar via Link</strong>
+          <small>Cole o link da sua lista M3U</small>
+        </span>
+      </button>
+      <button class="btn btn-outline" id="btn-file" tabindex="0">
+        <span class="btn-icon">📁</span>
+        <span class="btn-text">
+          <strong>Enviar Arquivo</strong>
+          <small>Carregue um arquivo .m3u do seu aparelho</small>
+        </span>
+      </button>
+    </div>
+    <input type="file" id="file-input" accept=".m3u,.m3u8,.txt,audio/x-mpegurl" hidden>
+    <div id="url-field" class="url-field hidden">
+      <input type="url" id="url-input" placeholder="https://seuservidor.com/lista.m3u" spellcheck="false">
+      <button class="btn btn-gold btn-small" id="btn-url-add">Adicionar</button>
+    </div>
+    <div id="setup-error" class="setup-error hidden"></div>
+    <div id="sample-row" class="sample-row hidden">
+      <span>ou</span>
+      <button id="btn-sample" class="link-btn">carregue uma lista de demonstração</button>
+    </div>
+    <footer class="setup-footer">VIBETV PREMIUM © 2026 — Todos os direitos reservados</footer>
+  </div>
+</div>
+
+<div id="app-screen" class="app-screen hidden">
+
+  <header class="topbar">
+    <div class="brand brand-top">VIBE<span>TV</span><em>PREMIUM</em></div>
+    <div class="topbar-actions">
+      <button class="icon-btn" id="btn-favorites" title="Favoritos" tabindex="0">★<span class="badge" id="fav-count" hidden>0</span></button>
+      <button class="icon-btn" id="btn-home" title="Tela inicial" tabindex="0">🏠</button>
+      <button class="icon-btn" id="btn-add-more" title="Adicionar lista" tabindex="0">＋</button>
+      <button class="icon-btn" id="btn-settings" title="Minhas listas" tabindex="0">☰</button>
+      <button class="icon-btn hidden" id="btn-admin" title="Painel Admin" tabindex="0">⚙</button>
+      <button class="icon-btn" id="btn-logout" title="Sair" tabindex="0">⏻</button>
+    </div>
+  </header>
+
+  <div class="main-layout">
+
+    <aside class="sidebar" id="sidebar">
+      <nav class="mega-nav">
+        <button class="cat-item" id="btn-mega-filmes" tabindex="0">
+          <span class="cat-icon">🎬</span><span class="cat-name">Filmes</span>
+        </button>
+        <button class="cat-item" id="btn-mega-series" tabindex="0">
+          <span class="cat-icon">📺</span><span class="cat-name">Séries</span>
+        </button>
+        <button class="cat-item" id="btn-mega-animacao" tabindex="0">
+          <span class="cat-icon">🐉</span><span class="cat-name">Animação</span>
+        </button>
+      </nav>
+      <nav class="cat-list" id="cat-list"></nav>
+      <div class="sidebar-footer">
+        <button class="cat-item" id="btn-cat-favorites" tabindex="0">
+          <span class="cat-icon">★</span><span class="cat-name">Favoritos</span>
+        </button>
+        <button class="cat-item hidden" id="btn-cat-adult" tabindex="0">
+          <span class="cat-icon">🔒</span><span class="cat-name">Adulto</span>
+        </button>
+        <button class="cat-item" id="btn-cat-all" tabindex="0">
+          <span class="cat-icon">📺</span><span class="cat-name">Todos os Canais</span>
+        </button>
+      </div>
+    </aside>
+
+    <section class="content">
+      <div class="content-head">
+        <button class="icon-btn hidden" id="btn-back" title="Voltar" tabindex="0">←</button>
+        <h2 class="content-title" id="content-title">Todos os Canais</h2>
+        <div class="search-box">
+          <span class="search-icon">🔍</span>
+          <input type="text" id="search-input" placeholder="Buscar canal..." spellcheck="false">
+        </div>
+      </div>
+        <div class="content-scroll">
+          <div class="channel-grid" id="channel-grid"></div>
+          <div id="mega-root" class="mega-root hidden"></div>
+          <div id="adult-root" class="mega-root hidden"></div>
+          <div class="empty-state hidden" id="empty-state">
+            <div class="empty-icon">📡</div>
+            <p>Nenhum canal encontrado</p>
+          </div>
+        </div>
+    </section>
+
+  </div>
+
+  <div class="player-overlay hidden" id="player-overlay">
+    <div class="player-frame" id="player-frame">
+      <video id="video-player" autoplay controls playsinline></video>
+      <div class="player-top" id="player-top">
+        <button class="player-btn" id="btn-close-player" tabindex="0">✕</button>
+        <div class="player-title" id="player-title"></div>
+        <button class="player-btn" id="btn-fav-toggle" tabindex="0">★</button>
+        <button class="player-btn" id="btn-fullscreen" tabindex="0">⛶</button>
+      </div>
+      <div class="player-thumbs-top" id="player-thumbs-top">
+        <div class="player-thumbs" id="player-thumbs"></div>
+      </div>
+      <div class="player-loading hidden" id="player-loading">
+        <div class="loading-spinner"></div>
+        <p>Carregando canal...</p>
+      </div>
+      <div class="player-error hidden" id="player-error">
+        <div class="err-icon">⚠️</div>
+        <p>Não foi possível reproduzir este canal</p>
+        <button class="btn btn-gold btn-small" id="btn-retry">Tentar novamente</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal-overlay hidden" id="playlist-modal">
+    <div class="modal">
+      <div class="modal-head">
+        <h3>Minhas Listas</h3>
+        <button class="player-btn" id="btn-close-modal" tabindex="0">✕</button>
+      </div>
+      <div class="modal-body" id="playlist-list"></div>
+      <div class="modal-actions">
+        <button class="btn btn-gold" id="btn-modal-url" tabindex="0">➕ Adicionar Link</button>
+        <button class="btn btn-outline" id="btn-modal-file" tabindex="0">📁 Adicionar Arquivo</button>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+  <div class="modal-overlay hidden" id="admin-modal">
+    <div class="modal" style="max-width:600px;">
+      <div class="modal-head">
+        <h3>Painel Admin</h3>
+        <button class="player-btn" id="btn-close-admin" tabindex="0">✕</button>
+      </div>
+      <div class="modal-body" id="admin-list" style="max-height:50vh;"></div>
+      <div class="admin-create-form" id="admin-create-form" style="padding:14px 16px;border-top:1px solid var(--border);background:var(--bg-3);display:flex;gap:8px;flex-wrap:wrap;align-items:flex-end;">
+        <div style="flex:1;min-width:120px;display:flex;flex-direction:column;gap:4px;">
+          <label style="font-size:11px;color:var(--text-faint);font-weight:600;">Usuário</label>
+          <input type="text" id="admin-new-user" placeholder="login" spellcheck="false" style="padding:10px 14px;border-radius:10px;border:1.5px solid var(--border);background:var(--bg);color:var(--text);font-family:inherit;font-size:13px;">
+        </div>
+        <div style="flex:1;min-width:100px;display:flex;flex-direction:column;gap:4px;">
+          <label style="font-size:11px;color:var(--text-faint);font-weight:600;">Senha</label>
+          <input type="password" id="admin-new-pass" placeholder="senha" spellcheck="false" style="padding:10px 14px;border-radius:10px;border:1.5px solid var(--border);background:var(--bg);color:var(--text);font-family:inherit;font-size:13px;">
+        </div>
+        <div style="flex:1;min-width:100px;display:flex;flex-direction:column;gap:4px;">
+          <label style="font-size:11px;color:var(--text-faint);font-weight:600;">Acesso</label>
+          <select id="admin-new-duration" style="padding:10px 14px;border-radius:10px;border:1.5px solid var(--border);background:var(--bg);color:var(--text);font-family:inherit;font-size:13px;">
+            <option value="2h">2 horas</option>
+            <option value="24h">24 horas</option>
+            <option value="7d">7 dias</option>
+            <option value="15d">15 dias</option>
+            <option value="1m" selected>1 mês</option>
+            <option value="3m">3 meses</option>
+            <option value="6m">6 meses</option>
+            <option value="1y">1 ano</option>
+            <option value="lifetime">Vitalício</option>
+          </select>
+        </div>
+        <div style="flex:1;min-width:80px;display:flex;flex-direction:column;gap:4px;">
+          <label style="font-size:11px;color:var(--text-faint);font-weight:600;">Perfil</label>
+          <select id="admin-new-role" style="padding:10px 14px;border-radius:10px;border:1.5px solid var(--border);background:var(--bg);color:var(--text);font-family:inherit;font-size:13px;">
+            <option value="user">Usuário</option>
+            <option value="admin">Admin</option>
+          </select>
+        </div>
+        <div style="display:flex;align-items:center;gap:6px;margin-top:16px;">
+          <input type="checkbox" id="admin-new-adult" style="width:16px;height:16px;accent-color:var(--gold);cursor:pointer;">
+          <label for="admin-new-adult" style="font-size:12px;color:var(--text-dim);cursor:pointer;white-space:nowrap;">Canais Adultos</label>
+        </div>
+        <button class="btn btn-gold btn-small" id="btn-admin-add-user" style="margin-top:16px;">+ Criar</button>
+      </div>
+      <div class="modal-actions">
+        <button class="btn btn-gold" id="btn-admin-export" style="flex:1;justify-content:center;">📤 Exportar DB</button>
+        <button class="btn btn-outline" id="btn-admin-import" style="flex:1;justify-content:center;">📥 Importar DB</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal-overlay hidden" id="pin-modal">
+    <div class="modal" style="max-width:360px;">
+      <div class="modal-head">
+        <h3 id="pin-modal-title">Criar PIN</h3>
+        <button class="player-btn" id="btn-close-pin" tabindex="0">✕</button>
+      </div>
+      <div class="modal-body" style="text-align:center;padding:28px 24px;">
+        <p id="pin-modal-desc" style="color:var(--text-dim);font-size:13px;margin-bottom:20px;"></p>
+        <div class="pin-input-group" id="pin-input-group">
+          <input type="password" maxlength="1" class="pin-digit" data-idx="0" inputmode="numeric" autocomplete="off">
+          <input type="password" maxlength="1" class="pin-digit" data-idx="1" inputmode="numeric" autocomplete="off">
+          <input type="password" maxlength="1" class="pin-digit" data-idx="2" inputmode="numeric" autocomplete="off">
+          <input type="password" maxlength="1" class="pin-digit" data-idx="3" inputmode="numeric" autocomplete="off">
+        </div>
+        <div id="pin-confirm-group" class="pin-input-group" style="margin-top:14px;">
+          <input type="password" maxlength="1" class="pin-digit" data-idx="0" inputmode="numeric" autocomplete="off" placeholder="">
+          <input type="password" maxlength="1" class="pin-digit" data-idx="1" inputmode="numeric" autocomplete="off">
+          <input type="password" maxlength="1" class="pin-digit" data-idx="2" inputmode="numeric" autocomplete="off">
+          <input type="password" maxlength="1" class="pin-digit" data-idx="3" inputmode="numeric" autocomplete="off">
+        </div>
+        <div id="pin-error" class="setup-error hidden" style="margin-top:14px;"></div>
+        <button class="btn btn-gold" id="btn-pin-submit" style="width:100%;margin-top:18px;justify-content:center;">
+          <span class="btn-text"><strong>Confirmar</strong></span>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <div class="toast" id="toast"></div>
+
+<script src="https://www.gstatic.com/firebasejs/10.7.1/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore-compat.js"></script>
+<script src="hls.min.js"></script>
+<script src="js/bundled-playlist.js"></script>
+<script src="js/megacine.js"></script>
+<script src="js/adult.js"></script>
+<script src="js/cloud.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
