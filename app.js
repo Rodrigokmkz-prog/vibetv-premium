@@ -8,7 +8,7 @@
 
   function streamProxyUrl(url) {
     if (!isWeb) return url;
-    return '/.netlify/functions/stream?url=' + encodeURIComponent(url);
+    return '/.netlify/functions/proxy?url=' + encodeURIComponent(url);
   }
 
   var STORAGE_PLAYLISTS = 'vibetv_playlists_v1';
